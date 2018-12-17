@@ -1,8 +1,14 @@
-   body{
-     background-color:rgb(180,194,255);
-     font-family: serif;
-     font-size:14px;
-     font-weight: bold;
-     line-height:1.5em;
-}
 
+   body{
+                background-color:rgb(184, 83, 63);
+                color:white;
+            }
+            h1{
+                background-color:rgb(58, 120, 13);
+            }
+            .visit-list{
+                color:rgb(199, 162, 127);
+            }
+            #ending{
+                background-color:rgb(35, 117, 14);
+            }
