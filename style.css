@@ -40,7 +40,7 @@ li a:hover {
 
 .column {
     float:left;
-    width: 50%;
+    width: 47%;
     text-align: center;
     margin-top:20px;
     padding: 10px;
@@ -73,7 +73,7 @@ img {
 
 .technologies{
     float:left;
-    height: 160px;
+    height: 200px;
     width: 18%;
     text-align: center;
     margin-top:20px;
