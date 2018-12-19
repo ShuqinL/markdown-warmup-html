@@ -20,10 +20,9 @@ ul{
 }
 
 li {
-    float: left;
-}
+    display: inline-block;
 
-li a {
+li {
     display: block;
     color: white;
     text-align: center;
@@ -31,7 +30,8 @@ li a {
     text-decoration: none;
     font-size: 20;
     font-weight: bold;
-    width:25%;
+    width: 25%;
+    
 }
 
 li a:hover {
