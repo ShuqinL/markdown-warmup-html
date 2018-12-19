@@ -13,7 +13,8 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(83, 86, 94)
+  background-color: rgb(62, 87, 143);
+}
 }
 
 li {
@@ -29,6 +30,6 @@ li a {
     font-size: 20;
     font-weight: bold;
 }li a:hover {
-    background-color: rgb(62, 87, 143);
-}
+    background-color: rgb(83, 86, 94)
+    
 
