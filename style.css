@@ -43,3 +43,8 @@ li a {
     display:table;
     clear:both;
 }
+
+h2{
+    color: rgb(62, 87, 143);
+    text-align: center;
+}
