@@ -22,7 +22,7 @@ ul{
 li {
     display: inline-block;
 
-li {
+li a{
     display: block;
     color: white;
     text-align: center;
