@@ -33,7 +33,13 @@ li a {
     background-color: rgb(83, 86, 94)
 }
 
-div{
-    column-count:2;
-    column-gap: 40px;
+.column {
+    float:left;
+    width: 50%;
+}
+
+.row:after{
+    content:"";
+    display:table;
+    clear:both;
 }
