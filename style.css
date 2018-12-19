@@ -31,5 +31,9 @@ li a {
     font-weight: bold;
 }li a:hover {
     background-color: rgb(83, 86, 94)
-    
+}
 
+div{
+    column-count:2;
+    column-gap: 40px;
+}
