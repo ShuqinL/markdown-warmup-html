@@ -3,10 +3,9 @@ body{
 }
 
 h1{
-  color: white;
-  background-color: rgb(62, 87, 143);
+  color: rgb(62, 87, 143);
   text-align:center;
-  font-size: 30px;
+  font-size: 60px;
 }
 
 ul{
@@ -27,6 +26,8 @@ li a {
     text-align: center;
     padding: 15px;
     text-decoration: none;
+    font-size: 20;
+    font-weight: bold;
 }li a:hover {
     background-color: rgb(62, 87, 143);
 }
