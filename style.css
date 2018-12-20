@@ -50,7 +50,6 @@ main {
     margin-top:20px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(137, 140, 150);
-    background-color: rgb(255,255,255,0.1);
 }
 
 .row:after{
@@ -75,10 +74,6 @@ h3{
 
 img {
     width: 70px;
-}
-
-.parttwo {
-    background-color: rgb(255,255,255,0.9);
 }
 
 .technologies{
