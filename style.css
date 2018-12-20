@@ -48,8 +48,9 @@ main {
     width: 47%;
     height: 300px;
     text-align: center;
-    margin-top:20px;
-    padding: 10px;
+   margin: 5px;
+   padding: 5px;
+
     box-shadow: 5px 5px 5px rgb(137, 140, 150);
     background-color: white;
 }
