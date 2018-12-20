@@ -35,7 +35,11 @@ li a{
 }
 
 li a:hover {
-    background-color: rgb(235, 78, 10)
+    background-color: rgb(235, 78, 10);
+}
+
+main {
+    background-color: rgb(235, 78, 10);
 }
 
 .column {
@@ -46,6 +50,7 @@ li a:hover {
     margin-top:20px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(137, 140, 150);
+    background-color: rgb(255,255,255,0.4);
 }
 
 .row:after{
@@ -80,4 +85,5 @@ img {
     margin-top:20px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(137, 140, 150);
+    background-color: rgb(255,255,255,0.4);
 }
